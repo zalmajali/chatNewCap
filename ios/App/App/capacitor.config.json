@@ -1,0 +1,14 @@
+{
+	"appId": "com.Taqnyat.Livechat",
+	"appName": "chat",
+	"webDir": "www",
+	"packageClassList": [
+		"AppPlugin",
+		"CAPCameraPlugin",
+		"FilesystemPlugin",
+		"HapticsPlugin",
+		"KeyboardPlugin",
+		"StatusBarPlugin",
+		"FilePickerPlugin"
+	]
+}
